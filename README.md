@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Hm5GrI77zbNKi9Lp9h8NPQvhXfN64l-l/view](https://drive.google.com/file/d/1Hm5GrI77zbNKi9Lp9h8NPQvhXfN64l-l/view)
 
-- ⚡ Fun fact **I think am a singer**
+- ⚡ Fun fact **I think I am a singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
