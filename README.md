@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [https://medium.com/@tushar_98](https://medium.com/tushar_98)
+- 📝 I regularly write articles on [https://medium.com/@tushar_98](https://medium.com/@tushar_98)
 
 - 💬 Ask me about **MERN**
 
