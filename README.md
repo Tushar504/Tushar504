@@ -1,12 +1,12 @@
 <!-- [![MasterHead](https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif)](https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif) -->
-<img height="300px" width="1000px" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif"/>
+<img  width="1000" height="300" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" />
 <h1 align="center">Hi 👋, I'm Tushar Ahire</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar504&label=Profile%20views&color=0e75b6&style=flat" alt="tushar504" /> <a href="https://github.com/tushar504?tab=followers"><img src="https://img.shields.io/github/followers/tushar504?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
 <p align="left"> <a href="https://twitter.com/@tushara53823585" target="blank"><img src="https://img.shields.io/twitter/follow/tushara53823585?logo=twitter&style=for-the-badge" alt="@tushara53823585" /></a> </p>
-<img align="right" width="300" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
+<img align="right" width="300" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
 
 - 🌱 I’m currently learning **MERN Stack**
 
