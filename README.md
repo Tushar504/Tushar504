@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://twitter.com/@tushara53823585" target="blank"><img src="https://img.shields.io/twitter/follow/tushara53823585?logo=twitter&style=for-the-badge" alt="@tushara53823585" /></a> </p>
 <img align="right" width="300" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as a  **Full Stack Software Developer**
 
 - 📝 I regularly write articles on [https://medium.com/@tushar_98](https://medium.com/@tushar_98)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, Python, FastAPI, Flask, Django**
 
 - 📫 How to reach me **tusharmadhavahire98@gmail.com**
 
