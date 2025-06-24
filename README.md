@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tusharmadhavahire98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A3cekhc29lC952_BmgGSIHyShXGXWdhk/view](https://drive.google.com/file/d/1A3cekhc29lC952_BmgGSIHyShXGXWdhk/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19F-CevvtwvD8oQekFvGLL_w6g-Zz1MPl/view?usp=drive_link](https://drive.google.com/file/d/19F-CevvtwvD8oQekFvGLL_w6g-Zz1MPl/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am a singer**
 
